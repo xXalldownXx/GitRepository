@@ -1,7 +1,8 @@
-#Working with remotes
+# Working with remotes
 
 
--reporsitory erstellen
--README.md erzeugen
--ein paar commits 
--push
+- reporsitory erstellen
+- README.md erzeugen
+- ein paar commits 
+- push
+- fetch
