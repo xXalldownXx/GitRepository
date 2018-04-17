@@ -7,3 +7,4 @@
 - push
 - fetch
 - merge
+- pull 
